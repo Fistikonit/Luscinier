@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "tutorialmod:luscin_ingot"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    " Q ",
+    "QLQ",
+    " Q "
+  ],
+  "result": {
+    "count": 3,
+    "id": "tutorialmod:clear_luscin"
+  }
+}

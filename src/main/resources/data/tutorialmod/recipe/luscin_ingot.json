@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:luscin_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "tutorialmod:luscin_ingot"
+  }
+}
